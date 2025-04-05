@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Dicoding Events</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="title_active">Upcoming</string>
+    <string name="title_inactive">Finished</string>
+    <string name="seacrh_event">Cari Event</string>
+    <string name="type_event">type of event</string>
+    <string name="event_name">Nama Event</string>
+    <string name="time">time</string>
+    <string name="location">location</string>
+    <string name="participant">participant</string>
+    <string name="format_parties">%1$d/%2$d</string>
+    <string name="owner_event">oleh : penyelenggara</string>
+    <string name="description">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</string>
+    <string name="register_event">Register Event</string>
+    <string name="remaining_quote">Sisa kuota : ....</string>
+    <string name="see_event">Lihat Event</string>
+    <string name="format_owner">oleh : %s</string>
+    <string name="format_quote">Sisa kuota : %d</string>
+</resources>

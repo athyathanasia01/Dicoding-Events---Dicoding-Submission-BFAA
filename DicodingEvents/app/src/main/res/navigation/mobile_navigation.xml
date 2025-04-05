@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/mobile_navigation"
+    app:startDestination="@+id/navigation_active">
+
+    <fragment
+        android:id="@+id/navigation_active"
+        android:name="com.dicoding.dicodingevents.ui.active.ActiveFragment"
+        android:label="@string/title_active"
+        tools:layout="@layout/fragment_active" />
+
+    <fragment
+        android:id="@+id/navigation_inactive"
+        android:name="com.dicoding.dicodingevents.ui.inactive.InactiveFragment"
+        android:label="@string/title_inactive"
+        tools:layout="@layout/fragment_inactive" />
+</navigation>
